@@ -94,10 +94,10 @@ animal-tracking-system/
 
 Тестирование проекта проводилось функциональное и пользовательское.
 
-- План тестирования: `testing/test_plan.md`
-- Отчет о тестах: `testing/test_report.md`
-- Сводка обратной связи пользователей: `testing/feedback_summary.md`
-- Список найденных ошибок и предложений: `testing/issues.md`
+- План тестирования: testing/testing/testing/test_plan.md
+- Отчет о тестах: testing/testing/testing/test_report.md
+- Сводка обратной связи пользователей: testing/testing/testing/feedback_summary.md
+- Список найденных ошибок и предложений: testing/testing/testing/issues.md
 
 Результаты тестирования показали корректную работу всех модулей. Пользователи отметили удобство интерфейса и предложили улучшения, часть которых уже внесена.
 
